@@ -1,0 +1,9 @@
+word,sentiment
+great,1
+fine,1
+good,1
+ok,1
+bad,-1
+disappointing,-1
+awful,-1
+terrible,-1
